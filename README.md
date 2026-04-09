@@ -91,7 +91,6 @@ description: A clear description of what this skill does and when to use it
 ```
 ❌ 不好: 创建一个 "web-development" Skill 处理所有前端任务
 ✅ 好的: 分别创建 "react-component-builder"、"api-integration"、"ui-styling" 等专项 Skill
-复制
 ```
 
 ##提供清晰的触发条件 - 让 AI 知道何时使用
