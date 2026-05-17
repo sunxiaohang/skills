@@ -1,20 +1,17 @@
 # 手机操作与横屏适配规范
 
-## 一、横屏适配（最高优先级）
+## 一、横屏/竖屏适配（最高优先级）
 
-### 1.1 强制横屏配置
+### 1.1 横屏竖屏根据游戏场景配置
 
 ```json
-// game.json — 必须配置
+// game.json 
 {
-  "deviceOrientation": "landscape",
   "showStatusBar": false
 }
 ```
 
-### 1.2 横屏尺寸获取
-
-系统 API 返回的尺寸可能是竖屏数据（热启动/旋转未完成），必须强制横屏：
+### 1.2 横屏模式下尺寸获取（竖屏忽略）
 
 ```javascript
 // ★ 铁律：始终保证 screenW >= screenH
