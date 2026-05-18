@@ -1,6 +1,7 @@
 # 范文：我妈拉黑我那天，朋友圈还发了一张饺子照片
 
-> 本文为 story-generator Skill 的参考范文，展示完整写作规范的落地效果。
+> 本文为 story-generator Skill 的参考范文，展示完整写作规范及插画分镜标注的落地效果。
+> 【插图】标记处为应生成配图的位置及 prompt 示例。
 
 ---
 
@@ -23,6 +24,22 @@
 时间是十五分钟前。
 
 也就是说，她拉黑我之后，还发了朋友圈。
+
+---
+
+【插图①】开篇定场
+```
+场景：一个圆头小人坐在空荡荡的茶水间，手里拿着三明治，盯着手机屏幕，
+      屏幕上出现一个红色感叹号，旁边窗台上放着一盆小薄荷
+情绪：日常、轻微发愣、有点茫然
+构图：人物居中，留出上方和两侧大量空白，窗外有淡淡的午后光线
+提示词：simple line illustration, cute cartoon style, healing aesthetic,
+  a small round-headed character sitting alone in an empty break room,
+  holding a sandwich, staring at phone with a red exclamation mark on screen,
+  a small mint plant on the windowsill, soft afternoon light,
+  slightly dazed expression, warm beige and pale green tones,
+  hand-drawn journal style, lots of white space, cozy and gentle
+```
 
 ---
 
@@ -49,6 +66,23 @@
 我心里咯噔一下，但很快告诉自己：可能是去了哪个亲戚家。
 
 可那个蓝色桌布，像一个没拔出来的刺。
+
+---
+
+【插图②】关键物品特写
+```
+场景：俯视视角，一口小奶锅里煮着几个褶子不太好看的饺子，
+      有一个已经煮破了，锅底隐约可见一块烧糊的印记，
+      旁边是蓝色格子桌布，压着一瓶老干妈
+情绪：日常、温热、细节里藏着心酸
+构图：正俯视，锅居中，桌布铺满背景，画面干净克制
+提示词：simple line illustration, cute cartoon style, healing aesthetic,
+  top-down view of a small milk pot with dumplings boiling inside,
+  one dumpling broken open, a faint scorch mark on the pot bottom,
+  blue checkered tablecloth background, a bottle of chili sauce nearby,
+  soft warm tones, kitchen detail, hand-drawn cozy style,
+  intimate and slightly melancholy, minimal composition
+```
 
 ---
 
@@ -132,6 +166,25 @@
 
 ---
 
+【插图③】强情绪峰值
+```
+场景：一个扎着围裙的圆头小人站在厨房门口，手里拿着筷子，
+      旁边是已经摆好两副碗筷的餐桌，蓝色桌布，
+      另一个小人站在门口，背着包，低着头
+情绪：克制、鼻酸、"她早就知道我会来"
+构图：两个人物一左一右，中间是餐桌，暖黄的室内光，窗外是蓝灰色的傍晚
+提示词：simple line illustration, cute cartoon style, healing aesthetic,
+  two small round-headed characters, one wearing an apron holding chopsticks
+  standing at kitchen doorway, the other standing at entrance with a backpack,
+  a small table set with two bowls in between, blue tablecloth,
+  warm indoor light vs cool evening outside,
+  restrained emotions, about to cry but holding back,
+  soft warm yellow and misty blue palette, hand-drawn cozy style,
+  gentle and intimate atmosphere
+```
+
+---
+
 6.
 
 吃饭的时候，我们都没说话。
@@ -193,6 +246,26 @@
 我知道，她把我拉回来了。
 
 ---
+
+【插图④】收尾余温
+```
+场景：高铁车窗外，夜色流动，一个圆头小人靠着窗，
+      手机屏幕亮着，屏幕上显示一个橘子的照片，
+      旁边有一行字"随便。带点草莓，超市的贵。"
+情绪：温暖、释然、回味，还有一点想笑
+构图：人物侧身靠窗，窗外有流动的夜景虚化光点，手机屏幕发出柔和光晕
+提示词：simple line illustration, cute cartoon style, healing aesthetic,
+  a small round-headed character leaning against train window at night,
+  holding phone with soft screen glow, outside window has blurry moving city lights,
+  warm amber phone light against cool dark blue night,
+  peaceful and slightly emotional, content and nostalgic feeling,
+  hand-drawn journal style, cozy and intimate, gentle warm tones,
+  lots of breathing space in composition
+```
+
+---
+
+*结尾钩子（余味式）：*
 
 回程的高铁上，我刷到她新发了一条朋友圈，是一个短视频，拍的是茶几上的一个橘子。
 
