@@ -1,5 +1,5 @@
 ---
-name: zhuixu-zhanshen
+name: shuangwen-generator
 description: >
   赘婿战神爽文生成器，专为番茄小说平台极速爽文风格设计。
   三线隐藏身份（战神+首富+宗师）+ 每2章一爽点 + 前20章留存率优化。
